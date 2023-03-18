@@ -5,6 +5,7 @@ This is a living document that can serve as a resource for finding women leading
 ## Repositories
 
 [Emma Dawson](https://github.com/EmmaDawsonDev) - [Accessible For All](https://github.com/AccessibleForAll/AccessibleWebDev)
+
 [Katalyst Kat](https://github.com/katalystkat) - [FitDevs](https://github.com/FitDevs-withKat/Fitness-Accountability)
 
 ## Maintainers
