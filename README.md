@@ -12,4 +12,6 @@ This is a living document that can serve as a resource for finding women leading
 
 ## Founders
 
+[Katrina Owen](https://github.com/kytrinyx) - [Founder of Exercism.io](https://github.com/exercism)
+
 ## Open Source Communities
