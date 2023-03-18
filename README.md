@@ -2,6 +2,11 @@
 
 This is a living document that can serve as a resource for finding women leading open source projects and companies, serving as maintainers, or otherwise supporting Open Source.
 
+Contributions to this resource are welcome and encouraged. 
+
+When adding someone please add their name, link to their github profile, project name, and link to project.
+
+
 ## Repositories
 
 [Emma Dawson](https://github.com/EmmaDawsonDev) - [Accessible For All](https://github.com/AccessibleForAll/AccessibleWebDev)
