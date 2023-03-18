@@ -19,6 +19,8 @@ When adding someone please add their name, link to their github profile, project
 
 [Katrina Owen](https://github.com/kytrinyx) - [Founder of Exercism.io](https://github.com/exercism)
 
+[Coraline Ada Ehkme](https://github.com/CoralineAda) - [Co-Founder Organization for Ethical Source](https://ethicalsource.dev/) | [Contributor Covenant](https://github.com/EthicalSource/contributor_covenant)
+
 ## Open Source Communities
 
 [PyLadies](https://github.com/pyladies) - PyLadies is a global mentorship group focused on helping more marginalized genders become active participants & leads in the Python open-source community 
