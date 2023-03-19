@@ -19,11 +19,13 @@ When adding someone please add their name, link to their github profile, project
 
 ## Maintainers
 
-## Founders
+## Founders & Leaders
+
+[Coraline Ada Ehkme](https://github.com/CoralineAda) - [Co-Founder Organization for Ethical Source](https://ethicalsource.dev/) | [Contributor Covenant](https://github.com/EthicalSource/contributor_covenant)
 
 [Katrina Owen](https://github.com/kytrinyx) - [Founder of Exercism.io](https://github.com/exercism)
 
-[Coraline Ada Ehkme](https://github.com/CoralineAda) - [Co-Founder Organization for Ethical Source](https://ethicalsource.dev/) | [Contributor Covenant](https://github.com/EthicalSource/contributor_covenant)
+[Sarah Novotony](https://twitter.com/sarahnovotny) - OSS leader, currently leading OSS strategy at Microsoft. 
 
 ## Open Source Communities
 
