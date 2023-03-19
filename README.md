@@ -13,6 +13,8 @@ When adding someone please add their name, link to their github profile, project
 
 [Katalyst Kat](https://github.com/katalystkat) - [FitDevs](https://github.com/FitDevs-withKat/Fitness-Accountability)
 
+[Sonya Moisset](https://github.com/SonyaMoisset) - [Many repositories](https://github.com/SonyaMoisset?tab=repositories)
+
 [Willow (GHOST)](https://github.com/ghostdevv) - [Many repositories](https://github.com/ghostdevv?tab=repositories)
 
 ## Maintainers
