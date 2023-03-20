@@ -13,6 +13,8 @@ When adding someone please add their name, link to their github profile, project
 
 [Katalyst Kat](https://github.com/katalystkat) - [FitDevs](https://github.com/FitDevs-withKat/Fitness-Accountability)
 
+[Maggie Appleton](https://github.com/MaggieAppleton) - [Digital Gardeners](https://github.com/MaggieAppleton/digital-gardeners)
+
 [Sonya Moisset](https://github.com/SonyaMoisset) - [Many repositories](https://github.com/SonyaMoisset?tab=repositories)
 
 [Tracy Chao](https://github.com/triketora) - [Women In Software Engineering](https://github.com/triketora/women-in-software-eng)
