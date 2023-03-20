@@ -1,6 +1,7 @@
-# Women Led Open Source
+# Introduction
 
-This is a living document that can serve as a resource for finding women leading open source projects and companies, serving as maintainers, or otherwise supporting Open Source.
+This is a living document that can serve as a resource for finding people including those identifying as women, transgender people, nonbinary people, and other underrepresented genders leading open source projects and companies, serving as maintainers, or otherwise supporting Open Source.
+
 
 Contributions to this resource are welcome and encouraged. 
 
