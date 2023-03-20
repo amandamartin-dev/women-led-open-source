@@ -15,6 +15,8 @@ When adding someone please add their name, link to their github profile, project
 
 [Sonya Moisset](https://github.com/SonyaMoisset) - [Many repositories](https://github.com/SonyaMoisset?tab=repositories)
 
+[Tracy Chao](https://github.com/triketora) - [Women In Software Engineering](https://github.com/triketora/women-in-software-eng)
+
 [Willow (GHOST)](https://github.com/ghostdevv) - [Many repositories](https://github.com/ghostdevv?tab=repositories)
 
 ## Maintainers
