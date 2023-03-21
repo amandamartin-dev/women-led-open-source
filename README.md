@@ -45,3 +45,5 @@ When adding someone please add their name, link to their github profile, project
 ## Other Information / Resources
 
 [Christine Peterson](https://twitter.com/lifeext?lang=en) - Credited with coining the term "open source" in reference to software [wiki](https://en.wikipedia.org/wiki/Christine_Peterson)
+
+[Mitchell Baker](https://en.wikipedia.org/wiki/Mitchell_Baker) - CEO of Mozilla foundation
