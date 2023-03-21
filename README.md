@@ -28,13 +28,18 @@ When adding someone please add their name, link to their github profile, project
 
 ## Founders & Leaders
 
+[Christine Peterson](https://twitter.com/lifeext?lang=en) - Credited with coining the term "open source" in reference to software [wiki](https://en.wikipedia.org/wiki/Christine_Peterson)
+
 [Coraline Ada Ehkme](https://github.com/CoralineAda) - [Co-Founder Organization for Ethical Source](https://ethicalsource.dev/) | [Contributor Covenant](https://github.com/EthicalSource/contributor_covenant)
 
 [Katrina Owen](https://github.com/kytrinyx) - [Founder of Exercism.io](https://github.com/exercism)
 
+[Mitchell Baker](https://en.wikipedia.org/wiki/Mitchell_Baker) - CEO of Mozilla foundation
+
 [Sarah Novotony](https://twitter.com/sarahnovotny) - OSS leader, currently leading OSS strategy at Microsoft. 
 
 [Qianqian Ye](https://github.com/qianqianye) - [Leader p5.js](https://github.com/processing/p5.js)
+
 
 ## Open Source Communities
 
@@ -42,8 +47,3 @@ When adding someone please add their name, link to their github profile, project
 
 [Women Who Code](https://github.com/WomenWhoCode)
 
-## Other Information / Resources
-
-[Christine Peterson](https://twitter.com/lifeext?lang=en) - Credited with coining the term "open source" in reference to software [wiki](https://en.wikipedia.org/wiki/Christine_Peterson)
-
-[Mitchell Baker](https://en.wikipedia.org/wiki/Mitchell_Baker) - CEO of Mozilla foundation
