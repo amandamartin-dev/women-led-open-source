@@ -49,4 +49,6 @@ When adding someone please add their name, link to their github profile, project
 
 [PyLadies](https://github.com/pyladies) - PyLadies is a global mentorship group focused on helping more marginalized genders become active participants & leads in the Python open-source community 
 
+[She Code Africa](https://github.com/she-code-africa) - She Code Africa is a non-profit organization focused on celebrating and empowering young girls and women in technology across Africa.
+
 [Women Who Code](https://github.com/WomenWhoCode)
