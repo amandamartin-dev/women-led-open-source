@@ -32,6 +32,8 @@ When adding someone please add their name, link to their github profile, project
 
 [Coraline Ada Ehkme](https://github.com/CoralineAda) - [Co-Founder Organization for Ethical Source](https://ethicalsource.dev/) | [Contributor Covenant](https://github.com/EthicalSource/contributor_covenant)
 
+[Julia Lawall](https://who.paris.inria.fr/Julia.Lawall/) - Many achievements, notable projects include [Coccinelle](https://github.com/coccinelle/coccinelle)
+
 [Katrina Owen](https://github.com/kytrinyx) - [Founder of Exercism.io](https://github.com/exercism)
 
 [Mitchell Baker](https://en.wikipedia.org/wiki/Mitchell_Baker) - CEO of Mozilla foundation
