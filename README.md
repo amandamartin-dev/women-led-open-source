@@ -48,3 +48,5 @@ When adding someone please add their name, link to their github profile, project
 [PyLadies](https://github.com/pyladies) - PyLadies is a global mentorship group focused on helping more marginalized genders become active participants & leads in the Python open-source community 
 
 [Women Who Code](https://github.com/WomenWhoCode)
+
+[AnitaB](https://github.com/anitab-org) - Nonprofit focused on providing women and non-binary technologists with year-round opportunities to connect with and inspire one another, develop their professional skills, find mentors, and gain recognition.
