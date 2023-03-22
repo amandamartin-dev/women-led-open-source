@@ -28,6 +28,8 @@ When adding someone please add their name, link to their github profile, project
 
 ## Founders & Leaders
 
+[Ada Nduka Oyom](https://twitter.com/Kolokodess) - Founder She Code Africa and [OSC Africa](https://oscafrica.org/)
+
 [Christine Peterson](https://twitter.com/lifeext?lang=en) - Credited with coining the term "open source" in reference to software [wiki](https://en.wikipedia.org/wiki/Christine_Peterson)
 
 [Coraline Ada Ehkme](https://github.com/CoralineAda) - [Co-Founder Organization for Ethical Source](https://ethicalsource.dev/) | [Contributor Covenant](https://github.com/EthicalSource/contributor_covenant)
