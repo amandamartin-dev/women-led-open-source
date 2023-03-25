@@ -1,6 +1,6 @@
 # Introduction
 
-This is a living document that can serve as a resource for finding people including those identifying as women, transgender people, nonbinary people, and other underrepresented genders leading open source projects and companies, serving as maintainers, or otherwise supporting Open Source.
+This is a living document that can serve as a resource for finding people including those identifying as women, transgender people, nonbinary people, and other underrepresented genders leading open source projects and companies, serving as maintainers, or otherwise supporting Open Source. It was inspired by Christine Belzie's discussion post about how womxn founders are often underrepresented in the open source community. [Click here](https://dev.to/cbid2/where-are-all-the-women-owned-open-source-projects-4pd0) to read it. 
 
 
 Contributions to this resource are welcome and encouraged. 
