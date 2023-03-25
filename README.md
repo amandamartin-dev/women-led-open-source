@@ -28,7 +28,7 @@ When adding someone please add their name, link to their github profile, project
 
 ## Founders & Leaders
 
-[Ada Nduka Oyom](https://twitter.com/Kolokodess) - Founder She Code Africa and [OSC Africa](https://oscafrica.org/)
+[Ada Nduka Oyom](https://twitter.com/Kolokodess) - Founder of [She Code Africa](https://shecodeafrica.org/) and [OSC Africa](https://oscafrica.org/)
 
 [Christine Peterson](https://twitter.com/lifeext?lang=en) - Credited with coining the term "open source" in reference to software [wiki](https://en.wikipedia.org/wiki/Christine_Peterson)
 
@@ -43,6 +43,7 @@ When adding someone please add their name, link to their github profile, project
 [Sarah Novotony](https://twitter.com/sarahnovotny) - OSS leader, currently leading OSS strategy at Microsoft. 
 
 [Qianqian Ye](https://github.com/qianqianye) - [Leader p5.js](https://github.com/processing/p5.js)
+
 
 
 ## Open Source Communities
