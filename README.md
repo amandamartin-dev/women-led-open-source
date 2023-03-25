@@ -29,8 +29,6 @@ When adding someone please add their name, link to their github profile, project
 
 [Willow (GHOST)](https://github.com/ghostdevv) - [Many repositories](https://github.com/ghostdevv?tab=repositories)
 
-## Maintainers
-
 ## Founders & Leaders
 
 [Ada Nduka Oyom](https://twitter.com/Kolokodess) - Founder of [She Code Africa](https://shecodeafrica.org/) and [OSC Africa](https://oscafrica.org/)
@@ -48,8 +46,6 @@ When adding someone please add their name, link to their github profile, project
 [Sarah Novotony](https://twitter.com/sarahnovotny) - OSS leader, currently leading OSS strategy at Microsoft. 
 
 [Qianqian Ye](https://github.com/qianqianye) - [Leader p5.js](https://github.com/processing/p5.js)
-
-
 
 ## Open Source Communities
 
