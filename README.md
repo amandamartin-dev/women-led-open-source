@@ -43,7 +43,7 @@ When adding someone please add their name, link to their github profile, project
 [Sarah Novotony](https://twitter.com/sarahnovotny) - OSS leader, currently leading OSS strategy at Microsoft. 
 
 [Qianqian Ye](https://github.com/qianqianye) - [Leader p5.js](https://github.com/processing/p5.js)
-
+[Rupali Codes](https://github.com/rupali-codes)- Founder of [LinksHub](https://github.com/rupali-codes/LinksHub#welcome-to-linkshub)
 
 ## Open Source Communities
 
