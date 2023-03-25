@@ -1,7 +1,8 @@
 # Introduction
 
-This is a living document that can serve as a resource for finding people including those identifying as women, transgender people, nonbinary people, and other underrepresented genders leading open source projects and companies, serving as maintainers, or otherwise supporting Open Source. It was inspired by Christine Belzie's discussion post about how womxn founders are often underrepresented in the open source community. [Click here](https://dev.to/cbid2/where-are-all-the-women-owned-open-source-projects-4pd0) to read it. 
+This is a living document that can serve as a resource for finding people including those identifying as women, transgender people, nonbinary people, and other underrepresented genders leading open source projects and companies, serving as maintainers, or otherwise supporting Open Source. 
 
+This resource began in reponse to a discussion post started by [Christine Belzie](https://github.com/CBID2) titled [Where are all the women owned Open Source projects](https://dev.to/cbid2/where-are-all-the-women-owned-open-source-projects-4pd0). In looking for some resources to send Christine, I was unable to find anything thorough or currently maintained and decided to start this project.  It is my hope that this resource will get so large that I will have to find a better solution than a readme to hold all the amazing resources.
 
 Contributions to this resource are welcome and encouraged. 
 
@@ -9,6 +10,8 @@ When adding someone please add their name, link to their github profile, project
 
 
 ## Repositories
+
+[bashbunni](https://github.com/bashbunni) - [Devrel @ Charm](https://github.com/charmbracelet) and other projects like [pjs](https://github.com/bashbunni/pjs)
 
 [Emma Dawson](https://github.com/EmmaDawsonDev) - [Accessible For All](https://github.com/AccessibleForAll/AccessibleWebDev)
 
@@ -18,7 +21,7 @@ When adding someone please add their name, link to their github profile, project
 
 [Maggie Appleton](https://github.com/MaggieAppleton) - [Digital Gardeners](https://github.com/MaggieAppleton/digital-gardeners)
 
-[Rupali Codes](https://github.com/rupali-codes)- Founder of [LinksHub](https://github.com/rupali-codes/LinksHub#welcome-to-linkshub)
+[Rupali Codes](https://github.com/rupali-codes) - [LinksHub](https://github.com/rupali-codes/LinksHub#welcome-to-linkshub)
 
 [Sonya Moisset](https://github.com/SonyaMoisset) - [Many repositories](https://github.com/SonyaMoisset?tab=repositories)
 
