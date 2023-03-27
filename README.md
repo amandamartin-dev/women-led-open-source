@@ -23,6 +23,8 @@ When adding someone please add their name, link to their github profile, project
 
 [Maggie Appleton](https://github.com/MaggieAppleton) - [Digital Gardeners](https://github.com/MaggieAppleton/digital-gardeners)
 
+[Naomi Carrigan](https://github.com/naomi-lgbt) - [Becca Lyria Bot](https://github.com/BeccaLyria)
+
 [Rupali Codes](https://github.com/rupali-codes) - [LinksHub](https://github.com/rupali-codes/LinksHub#welcome-to-linkshub)
 
 [Sonya Moisset](https://github.com/SonyaMoisset) - [Many repositories](https://github.com/SonyaMoisset?tab=repositories)
