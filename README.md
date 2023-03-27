@@ -15,6 +15,8 @@ When adding someone please add their name, link to their github profile, project
 
 [Emma Dawson](https://github.com/EmmaDawsonDev) - [Accessible For All](https://github.com/AccessibleForAll/AccessibleWebDev)
 
+[Jonavil (Avie) Fukai](https://github.com/avie-dev) - [Spaces Lounge](https://github.com/avie-dev/spaceslounge)
+
 [Katalyst Kat](https://github.com/katalystkat) - [FitDevs](https://github.com/FitDevs-withKat/Fitness-Accountability)
 
 [Layla P](https://github.com/Layla-P) - [Women of DotNet](https://github.com/Layla-P/WomenOfDotNet)
