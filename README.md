@@ -15,6 +15,8 @@ When adding someone please add their name, link to their github profile, project
 
 [Emma Dawson](https://github.com/EmmaDawsonDev) - [Accessible For All](https://github.com/AccessibleForAll/AccessibleWebDev)
 
+[Jaana Dogon](https://github.com/rakyll) - [Hey](https://github.com/rakyll/hey)
+
 [Jess Frazelle](https://github.com/jessfraz) - [Dockerfiles](https://github.com/jessfraz/dockerfiles)
 
 [Jonavil (Avie) Fukai](https://github.com/avie-dev) - [Spaces Lounge](https://github.com/avie-dev/spaceslounge)
