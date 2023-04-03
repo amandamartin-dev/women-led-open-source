@@ -64,3 +64,5 @@ When adding someone please add their name, link to their github profile, project
 [She Code Africa](https://github.com/she-code-africa) - She Code Africa is a non-profit organization focused on celebrating and empowering young girls and women in technology across Africa.
 
 [Women Who Code](https://github.com/WomenWhoCode)
+
+[Awesome4girls](https://github.com/cristianoliveira/awesome4girls) - A curated list of inclusive events/projects/initiatives for women in the tech area. 
