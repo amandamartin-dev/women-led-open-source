@@ -55,6 +55,8 @@ When adding someone please add their name, link to their github profile, project
 
 [Qianqian Ye](https://github.com/qianqianye) - [Leader p5.js](https://github.com/processing/p5.js)
 
+[Women in Technology](https://github.com/womenintechnology) - We bring together women whose goal is to support each other in developing professional competencies, preparing for leadership roles, building a network of contacts, and increasing visibility in IT. (https://www.womenintechnology.pl/)
+
 ## Open Source Communities
 
 [AnitaB](https://github.com/anitab-org) - Nonprofit focused on providing women and non-binary technologists with year-round opportunities to connect with and inspire one another, develop their professional skills, find mentors, and gain recognition.
