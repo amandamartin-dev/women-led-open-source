@@ -55,7 +55,6 @@ When adding someone please add their name, link to their github profile, project
 
 [Qianqian Ye](https://github.com/qianqianye) - [Leader p5.js](https://github.com/processing/p5.js)
 
-[Women in Technology](https://github.com/womenintechnology) - We bring together women whose goal is to support each other in developing professional competencies, preparing for leadership roles, building a network of contacts, and increasing visibility in IT. (https://www.womenintechnology.pl/)
 
 ## Open Source Communities
 
@@ -68,3 +67,5 @@ When adding someone please add their name, link to their github profile, project
 [Women Who Code](https://github.com/WomenWhoCode)
 
 [Awesome4girls](https://github.com/cristianoliveira/awesome4girls) - A curated list of inclusive events/projects/initiatives for women in the tech area. 
+
+[Women in Technology](https://github.com/womenintechnology) - We bring together women whose goal is to support each other in developing professional competencies, preparing for leadership roles, building a network of contacts, and increasing visibility in IT. [Women in Technology website](https://www.womenintechnology.pl/)
