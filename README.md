@@ -56,7 +56,7 @@ When adding someone please add their name, link to their github profile, project
 [Qianqian Ye](https://github.com/qianqianye) - [Leader p5.js](https://github.com/processing/p5.js)
 
 
-## Open Source Communities
+## Communities and Organizations
 
 [AnitaB](https://github.com/anitab-org) - Nonprofit focused on providing women and non-binary technologists with year-round opportunities to connect with and inspire one another, develop their professional skills, find mentors, and gain recognition.
 
