@@ -62,17 +62,17 @@ When adding someone please add their name, link to their github profile, project
 
 [AnitaB](https://github.com/anitab-org) - Nonprofit focused on providing women and non-binary technologists with year-round opportunities to connect with and inspire one another, develop their professional skills, find mentors, and gain recognition.
 
+[Awesome4girls](https://github.com/cristianoliveira/awesome4girls) - A curated list of inclusive events/projects/initiatives for women in the tech area. 
+
+[Open Source Queens](https://app.daily.dev/squads/opensourcequeens/ay9Tv4cYCMwzSIGvILfxHhqIuetuDIeO1jJ9o80h6hg) -This is a space for women and non-binary individuals to share their experiences in the open source community. Whether you're a maintainer, founder, or contributor, we welcome you to join our community!
+
 [PyLadies](https://github.com/pyladies) - PyLadies is a global mentorship group focused on helping more marginalized genders become active participants & leads in the Python open-source community 
 
 [She Code Africa](https://github.com/she-code-africa) - She Code Africa is a non-profit organization focused on celebrating and empowering young girls and women in technology across Africa.
 
 [Women Who Code](https://github.com/WomenWhoCode)
 
-[Awesome4girls](https://github.com/cristianoliveira/awesome4girls) - A curated list of inclusive events/projects/initiatives for women in the tech area. 
-
 [Women in Technology](https://github.com/womenintechnology) - We bring together women whose goal is to support each other in developing professional competencies, preparing for leadership roles, building a network of contacts, and increasing visibility in IT. [Women in Technology website](https://www.womenintechnology.pl/)
-
-[Open Source Queens](https://app.daily.dev/squads/opensourcequeens/ay9Tv4cYCMwzSIGvILfxHhqIuetuDIeO1jJ9o80h6hg) -This is a space for women and non-binary individuals to share their experiences in the open source community. Whether you're a maintainer, founder, or contributor, we welcome you to join our community!
 
 ## Content
 
