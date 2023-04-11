@@ -21,6 +21,8 @@ When adding someone please add their name, link to their github profile, project
 
 [Jonavil (Avie) Fukai](https://github.com/avie-dev) - [Spaces Lounge](https://github.com/avie-dev/spaceslounge)
 
+[Julia Ferraioli](https://github.com/juliaferraioli) & [Amanda Casari](https://github.com/amcasari) - [Open Source Stories](https://github.com/opensourcestories)
+
 [Katalyst Kat](https://github.com/katalystkat) - [FitDevs](https://github.com/FitDevs-withKat/Fitness-Accountability)
 
 [Layla P](https://github.com/Layla-P) - [Women of DotNet](https://github.com/Layla-P/WomenOfDotNet)
@@ -71,3 +73,8 @@ When adding someone please add their name, link to their github profile, project
 [Women in Technology](https://github.com/womenintechnology) - We bring together women whose goal is to support each other in developing professional competencies, preparing for leadership roles, building a network of contacts, and increasing visibility in IT. [Women in Technology website](https://www.womenintechnology.pl/)
 
 [Open Source Queens](https://app.daily.dev/squads/opensourcequeens/ay9Tv4cYCMwzSIGvILfxHhqIuetuDIeO1jJ9o80h6hg) -This is a space for women and non-binary individuals to share their experiences in the open source community. Whether you're a maintainer, founder, or contributor, we welcome you to join our community!
+
+## Content
+
+[Open Source Stories](https://www.opensourcestories.org/) - Podcast - The Open Source Stories project celebrates this expanded view on what is counted and who represents open source by collecting narratives from creators, contributors, and consumers alike.
+
