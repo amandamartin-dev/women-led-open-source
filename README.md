@@ -74,6 +74,8 @@ When adding someone please add their name, link to their github profile, project
 
 [Women in Technology](https://github.com/womenintechnology) - We bring together women whose goal is to support each other in developing professional competencies, preparing for leadership roles, building a network of contacts, and increasing visibility in IT. [Women in Technology website](https://www.womenintechnology.pl/)
 
+[Django Girls] (https://github.com/DjangoGirls)- Django Girls is a non-profit organization that empowers and helps women to organize free, one-day programming workshops by providing tools, resources, and support. They have a number of open source projects on their GitHub page.
+
 ## Content
 
 [Open Source Stories](https://www.opensourcestories.org/) - Podcast - The Open Source Stories project celebrates this expanded view on what is counted and who represents open source by collecting narratives from creators, contributors, and consumers alike.
