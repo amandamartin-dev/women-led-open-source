@@ -29,6 +29,8 @@ When adding someone please add their name, link to their github profile, project
 
 [Layla P](https://github.com/Layla-P) - [Women of DotNet](https://github.com/Layla-P/WomenOfDotNet)
 
+[Lily Skye](https://github.com/suchipi/) - [yavascript](https://github.com/suchipi/yavascript)
+
 [Maggie Appleton](https://github.com/MaggieAppleton) - [Digital Gardeners](https://github.com/MaggieAppleton/digital-gardeners)
 
 [Naomi Carrigan](https://github.com/naomi-lgbt) - [Becca Lyria Bot](https://github.com/BeccaLyria)
