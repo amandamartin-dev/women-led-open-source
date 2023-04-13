@@ -13,6 +13,8 @@ When adding someone please add their name, link to their github profile, project
 
 [bashbunni](https://github.com/bashbunni) - [Devrel @ Charm](https://github.com/charmbracelet) and other projects like [pjs](https://github.com/bashbunni/pjs)
 
+[Cassidy Williams](https://github.com/cassidoo) - [todometer](https://github.com/cassidoo/todometer)
+
 [Emma Dawson](https://github.com/EmmaDawsonDev) - [Accessible For All](https://github.com/AccessibleForAll/AccessibleWebDev)
 
 [Jaana Dogon](https://github.com/rakyll) - [Hey](https://github.com/rakyll/hey)
