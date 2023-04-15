@@ -4,9 +4,9 @@ This is a living document that can serve as a resource for finding people includ
 
 This resource began in reponse to a discussion post started by [Christine Belzie](https://github.com/CBID2) titled [Where are all the women owned Open Source projects](https://dev.to/cbid2/where-are-all-the-women-owned-open-source-projects-4pd0). In looking for some resources to send Christine, I was unable to find anything thorough or currently maintained and decided to start this project.  It is our hope that this resource will get so large that we will have to find a better solution to hold all the amazing resources.
 
-Contributions to this resource are welcome and encouraged. 
+Contributions to this resource are welcome. ***NOTE**: To ensure that this repository stays true to its mission, we will prioritize open source projects and related content that is created by womxn,especially those from other marginalized communities.
 
-When adding someone please add their name, link to their github profile, project name, and link to project.
+Click on the [CONTRIBUTING.md](https://github.com/amandamartin-dev/women-led-open-source/blob/main/CONTRIBUTING.md) to learn how to submit resources. 
 
 
 ## Repositories
