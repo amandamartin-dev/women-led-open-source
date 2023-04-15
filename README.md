@@ -2,7 +2,7 @@
 
 This is a living document that can serve as a resource for finding people including those identifying as women, transgender people, nonbinary people, and other underrepresented genders leading open source projects and companies, serving as maintainers, or otherwise supporting Open Source. 
 
-This resource began in reponse to a discussion post started by [Christine Belzie](https://github.com/CBID2) titled [Where are all the women owned Open Source projects](https://dev.to/cbid2/where-are-all-the-women-owned-open-source-projects-4pd0). In looking for some resources to send Christine, I was unable to find anything thorough or currently maintained and decided to start this project.  It is my hope that this resource will get so large that I will have to find a better solution than a readme to hold all the amazing resources.
+This resource began in reponse to a discussion post started by [Christine Belzie](https://github.com/CBID2) titled [Where are all the women owned Open Source projects](https://dev.to/cbid2/where-are-all-the-women-owned-open-source-projects-4pd0). In looking for some resources to send Christine, I was unable to find anything thorough or currently maintained and decided to start this project.  It is our hope that this resource will get so large that we will have to find a better solution to hold all the amazing resources.
 
 Contributions to this resource are welcome and encouraged. 
 
