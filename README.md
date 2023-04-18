@@ -11,6 +11,8 @@ When adding someone please add their name, link to their github profile, project
 
 ## Repositories
 
+[Alison Gianotto aka "snipe"](https://github.com/snipe) - [Snipe-IT](https://github.com/snipe/snipe-it)
+
 [bashbunni](https://github.com/bashbunni) - [Devrel @ Charm](https://github.com/charmbracelet) and other projects like [pjs](https://github.com/bashbunni/pjs)
 
 [Cassidy Williams](https://github.com/cassidoo) - [todometer](https://github.com/cassidoo/todometer)
