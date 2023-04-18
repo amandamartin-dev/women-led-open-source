@@ -55,6 +55,8 @@ When adding someone please add their name, link to their github profile, project
 
 [Katrina Owen](https://github.com/kytrinyx) - [Founder of Exercism.io](https://github.com/exercism)
 
+[Lea Verou](https://github.com/LeaVerou) - Elected @w3ctag member, CSS WG Invited Expert, HCI researcher at MIT CSAIL. Founder of many open source projects,including [PrismJS](https://github.com/PrismJS/prism).
+
 [Mitchell Baker](https://en.wikipedia.org/wiki/Mitchell_Baker) - CEO of Mozilla foundation
 
 [Sarah Novotony](https://twitter.com/sarahnovotny) - OSS leader, currently leading OSS strategy at Microsoft. 
