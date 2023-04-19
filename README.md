@@ -45,6 +45,8 @@ Click on the [CONTRIBUTING.md](https://github.com/amandamartin-dev/women-led-ope
 
 [Willow (GHOST)](https://github.com/ghostdevv) - [Many repositories](https://github.com/ghostdevv?tab=repositories)
 
+[Sue Spencer](https://github.com/slspencer) - [Seamly2D](https://github.com/fashionfreedom/seamly2d)
+
 ## Founders & Leaders
 
 [Ada Nduka Oyom](https://twitter.com/Kolokodess) - Founder of [She Code Africa](https://shecodeafrica.org/) and [OSC Africa](https://oscafrica.org/)
