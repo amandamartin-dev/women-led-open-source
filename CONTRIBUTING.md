@@ -1,4 +1,4 @@
-## HOW TO CONTRIBUTE
+# HOW TO CONTRIBUTE
 
 Thank you for contributing to this repository.  To add a resource, you may click on the edit icon on the README and begin your addition.
 
@@ -12,7 +12,7 @@ To help keep organized, please place your entry in alphabetical order in the sec
 
 If you have a new idea for how to improve this resource or a link that does not fit into any category, please open a new issue with your idea.
 
-# Section Definitions
+## Section Definitions
 
 Repositories - This section is for links to repositiories that are actively maintained and open to contributions.
 
@@ -22,7 +22,7 @@ Communities & Organizations - This section is for communities such as slack, dis
 
 Content - This section is for content creators dentifying as women, transgender people, nonbinary people, and other underrepresented genders that speak primarily about Open Source. This could be podcasts, youtube channels, blogs or others.  The focus is on high value resources so that we are learning deeply from each other.
 
-# Important Note
+## Important Note
 
 If you have been added to this resource and would like to be removed for any reason, pleases submit a pull request removing yourself. No questions asked.
 
