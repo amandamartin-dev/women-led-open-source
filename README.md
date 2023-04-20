@@ -74,6 +74,8 @@ Click on the [CONTRIBUTING.md](https://github.com/amandamartin-dev/women-led-ope
 
 [Django Girls](https://github.com/DjangoGirls)- Django Girls is a non-profit organization that empowers and helps women to organize free, one-day programming workshops by providing tools, resources, and support. They have a number of open source projects on their GitHub page.
 
+[Open Austin](https://www.open-austin.org/) - Open Austin addresses local social and civic challenges through creative uses of technology. We foster relationships between government, non- and for-profit organizations, and resident activists. President [Liani Lye](https://github.com/lianilychee)
+
 [Open Source Queens](https://app.daily.dev/squads/opensourcequeens/ay9Tv4cYCMwzSIGvILfxHhqIuetuDIeO1jJ9o80h6hg) -This is a space for women and non-binary individuals to share their experiences in the open source community. Whether you're a maintainer, founder, or contributor, we welcome you to join our community!
 
 [PyLadies](https://github.com/pyladies) - PyLadies is a global mentorship group focused on helping more marginalized genders become active participants & leads in the Python open-source community 
