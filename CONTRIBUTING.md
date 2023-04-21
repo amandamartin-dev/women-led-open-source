@@ -26,6 +26,6 @@ Content - This section is for content creators identifying as women, transgender
 
 If you have been added to this resource and would like to be removed for any reason, please submit a pull request and we'll fulfill it. No questions asked.
 
-If you believe the person added to this repository is inappropriate in some way or has acted in bad faith in the community, please reach out to me and/or Christine so we can discuss.
+If you believe the person added to this repository is inappropriate in some way or has acted in bad faith in the community, please reach out to me so we can discuss.
 
 
