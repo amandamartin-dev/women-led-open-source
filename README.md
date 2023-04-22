@@ -87,6 +87,12 @@ Click on the [CONTRIBUTING.md](https://github.com/amandamartin-dev/women-led-ope
 [Women in Technology](https://github.com/womenintechnology) - We bring together women whose goal is to support each other in developing professional competencies, preparing for leadership roles, building a network of contacts, and increasing visibility in IT. [Women in Technology website](https://www.womenintechnology.pl/)
 
 ## Content
+<<<<<<< HEAD
+[Chrissy's Open Source Survival Guide](https://chrissycodes.hashnode.dev/) - Blog - Whether you are a coding newbie or an experienced developer looking to keep your skills sharp, Chrissy's series will help you navigate the fun and whimsical world of open source projects.
+[Open Source Fridays](https://youtube.com/playlist?list=PL0lo9MOBetEFmtstItnKlhJJVmMghxc0P) - YouTube - Every Friday, Rizel Scarlett from GitHub interviews open source founders about the origin of their project, how it's used, and how people can contribute to them.  
+[Open Source Stories](https://www.opensourcestories.org/) - Podcast - The Open Source Stories project celebrates this expanded view on what is counted and who represents open source by collecting narratives from creators, contributors, and consumers alike.
+=======
 
 [Open Source Stories](https://www.opensourcestories.org/) - Podcast by [Julia Ferraioli](https://github.com/juliaferraioli) & [Amanda Casari](https://github.com/amcasari) - The Open Source Stories project celebrates this expanded view on what is counted and who represents open source by collecting narratives from creators, contributors, and consumers alike.
+>>>>>>> 5c0e049c28a370eaa81e8df92e352989ba5635f0
 
