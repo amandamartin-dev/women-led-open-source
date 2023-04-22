@@ -2,14 +2,16 @@
 
 This is a living document that can serve as a resource for finding people including those identifying as women, transgender people, nonbinary people, and other underrepresented genders leading open source projects and companies, serving as maintainers, or otherwise supporting Open Source. 
 
-This resource began in reponse to a discussion post started by [Christine Belzie](https://github.com/CBID2) titled [Where are all the women owned Open Source projects](https://dev.to/cbid2/where-are-all-the-women-owned-open-source-projects-4pd0). In looking for some resources to send Christine, I was unable to find anything thorough or currently maintained and decided to start this project.  It is my hope that this resource will get so large that I will have to find a better solution than a readme to hold all the amazing resources.
+This resource began in reponse to a discussion post started by [Christine Belzie](https://github.com/CBID2) titled [Where are all the women owned Open Source projects](https://dev.to/cbid2/where-are-all-the-women-owned-open-source-projects-4pd0). In looking for some resources to send Christine, I was unable to find anything thorough or currently maintained and decided to start this project.  It is our hope that this resource will get so large that we will have to find a better solution to hold all the amazing resources.
 
-Contributions to this resource are welcome and encouraged. 
+Contributions to this resource are welcome and encouraged.
 
-When adding someone please add their name, link to their github profile, project name, and link to project.
+Click on the [CONTRIBUTING.md](https://github.com/amandamartin-dev/women-led-open-source/blob/main/CONTRIBUTING.md) to learn how to submit resources. 
 
 
 ## Repositories
+
+[Alison Gianotto aka "snipe"](https://github.com/snipe) - [Snipe-IT](https://github.com/snipe/snipe-it)
 
 [bashbunni](https://github.com/bashbunni) - [Devrel @ Charm](https://github.com/charmbracelet) and other projects like [pjs](https://github.com/bashbunni/pjs)
 
@@ -55,6 +57,8 @@ When adding someone please add their name, link to their github profile, project
 
 [Katrina Owen](https://github.com/kytrinyx) - [Founder of Exercism.io](https://github.com/exercism)
 
+[Lea Verou](https://github.com/LeaVerou) - Elected @w3ctag member, CSS WG Invited Expert, HCI researcher at MIT CSAIL. Founder of many open source projects,including [PrismJS](https://github.com/PrismJS/prism).
+
 [Mitchell Baker](https://en.wikipedia.org/wiki/Mitchell_Baker) - CEO of Mozilla foundation
 
 [Sarah Novotony](https://twitter.com/sarahnovotny) - OSS leader, currently leading OSS strategy at Microsoft. 
@@ -70,6 +74,8 @@ When adding someone please add their name, link to their github profile, project
 
 [Django Girls](https://github.com/DjangoGirls)- Django Girls is a non-profit organization that empowers and helps women to organize free, one-day programming workshops by providing tools, resources, and support. They have a number of open source projects on their GitHub page.
 
+[Open Austin](https://www.open-austin.org/) - Open Austin addresses local social and civic challenges through creative uses of technology. We foster relationships between government, non- and for-profit organizations, and resident activists. President [Liani Lye](https://github.com/lianilychee)
+
 [Open Source Queens](https://app.daily.dev/squads/opensourcequeens/ay9Tv4cYCMwzSIGvILfxHhqIuetuDIeO1jJ9o80h6hg) -This is a space for women and non-binary individuals to share their experiences in the open source community. Whether you're a maintainer, founder, or contributor, we welcome you to join our community!
 
 [PyLadies](https://github.com/pyladies) - PyLadies is a global mentorship group focused on helping more marginalized genders become active participants & leads in the Python open-source community 
@@ -81,7 +87,12 @@ When adding someone please add their name, link to their github profile, project
 [Women in Technology](https://github.com/womenintechnology) - We bring together women whose goal is to support each other in developing professional competencies, preparing for leadership roles, building a network of contacts, and increasing visibility in IT. [Women in Technology website](https://www.womenintechnology.pl/)
 
 ## Content
+<<<<<<< HEAD
 [Chrissy's Open Source Survival Guide](https://chrissycodes.hashnode.dev/) - Blog - Whether you are a coding newbie or an experienced developer looking to keep your skills sharp, Chrissy's series will help you navigate the fun and whimsical world of open source projects.
 [Open Source Fridays](https://youtube.com/playlist?list=PL0lo9MOBetEFmtstItnKlhJJVmMghxc0P) - YouTube - Every Friday, Rizel Scarlett from GitHub interviews open source founders about the origin of their project, how it's used, and how people can contribute to them.  
 [Open Source Stories](https://www.opensourcestories.org/) - Podcast - The Open Source Stories project celebrates this expanded view on what is counted and who represents open source by collecting narratives from creators, contributors, and consumers alike.
+=======
+
+[Open Source Stories](https://www.opensourcestories.org/) - Podcast by [Julia Ferraioli](https://github.com/juliaferraioli) & [Amanda Casari](https://github.com/amcasari) - The Open Source Stories project celebrates this expanded view on what is counted and who represents open source by collecting narratives from creators, contributors, and consumers alike.
+>>>>>>> 5c0e049c28a370eaa81e8df92e352989ba5635f0
 
