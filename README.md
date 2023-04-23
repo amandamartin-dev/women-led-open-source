@@ -43,9 +43,9 @@ Click on the [CONTRIBUTING.md](https://github.com/amandamartin-dev/women-led-ope
 
 [Tracy Chao](https://github.com/triketora) - [Women In Software Engineering](https://github.com/triketora/women-in-software-eng)
 
-[Willow (GHOST)](https://github.com/ghostdevv) - [Many repositories](https://github.com/ghostdevv?tab=repositories)
 
 [Sue Spencer](https://github.com/slspencer) - [Seamly2D](https://github.com/fashionfreedom/seamly2d)
+[Willow (GHOST)](https://github.com/ghostdevv) - [Many repositories](https://github.com/ghostdevv?tab=repositories)
 
 ## Founders & Leaders
 
