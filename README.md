@@ -41,10 +41,10 @@ Click on the [CONTRIBUTING.md](https://github.com/amandamartin-dev/women-led-ope
 
 [Sonya Moisset](https://github.com/SonyaMoisset) - [Many repositories](https://github.com/SonyaMoisset?tab=repositories)
 
+[Sue Spencer](https://github.com/slspencer) - [Seamly2D](https://github.com/fashionfreedom/seamly2d)
+
 [Tracy Chao](https://github.com/triketora) - [Women In Software Engineering](https://github.com/triketora/women-in-software-eng)
 
-
-[Sue Spencer](https://github.com/slspencer) - [Seamly2D](https://github.com/fashionfreedom/seamly2d)
 [Willow (GHOST)](https://github.com/ghostdevv) - [Many repositories](https://github.com/ghostdevv?tab=repositories)
 
 ## Founders & Leaders
