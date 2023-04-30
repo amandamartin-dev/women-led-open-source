@@ -78,6 +78,8 @@ Click on the [CONTRIBUTING.md](https://github.com/amandamartin-dev/women-led-ope
 
 [Open Austin](https://www.open-austin.org/) - Open Austin addresses local social and civic challenges through creative uses of technology. We foster relationships between government, non- and for-profit organizations, and resident activists. President [Liani Lye](https://github.com/lianilychee)
 
+[Open Source for Equality](https://www.oseq.org/) - Open Source for Equality is a beginner-friendly, safe space for women to participate in open source projects that promote gender equality.
+
 [Open Source Queens](https://app.daily.dev/squads/opensourcequeens/ay9Tv4cYCMwzSIGvILfxHhqIuetuDIeO1jJ9o80h6hg) -This is a space for women and non-binary individuals to share their experiences in the open source community. Whether you're a maintainer, founder, or contributor, we welcome you to join our community!
 
 [PyLadies](https://github.com/pyladies) - PyLadies is a global mentorship group focused on helping more marginalized genders become active participants & leads in the Python open-source community 
