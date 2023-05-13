@@ -96,3 +96,6 @@ Click on the [CONTRIBUTING.md](https://github.com/amandamartin-dev/women-led-ope
 
 [Open Source Stories](https://www.opensourcestories.org/) - Podcast by [Julia Ferraioli](https://github.com/juliaferraioli) & [Amanda Casari](https://github.com/amcasari) - The Open Source Stories project celebrates this expanded view on what is counted and who represents open source by collecting narratives from creators, contributors, and consumers alike.
 
+## Support
+
+Support us by leaving a star! ⭐️
