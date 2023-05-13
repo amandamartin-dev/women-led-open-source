@@ -98,4 +98,4 @@ Click on the [CONTRIBUTING.md](https://github.com/amandamartin-dev/women-led-ope
 
 ## Support
 
-Support us by leave a star ⭐️
+Support us by leaving a star! ⭐️
