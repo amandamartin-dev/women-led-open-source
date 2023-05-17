@@ -37,6 +37,8 @@ Click on the [CONTRIBUTING.md](https://github.com/amandamartin-dev/women-led-ope
 
 [Naomi Carrigan](https://github.com/naomi-lgbt) - [Becca Lyria Bot](https://github.com/BeccaLyria)
 
+[Njong Emy](https://github.com/Njong392) - [Abbreve](https://github.com/Njong392/Abbreve)
+
 [Rupali Codes](https://github.com/rupali-codes) - [LinksHub](https://github.com/rupali-codes/LinksHub#welcome-to-linkshub)
 
 [Sonya Moisset](https://github.com/SonyaMoisset) - [Many repositories](https://github.com/SonyaMoisset?tab=repositories)
