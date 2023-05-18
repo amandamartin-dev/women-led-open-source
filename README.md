@@ -15,6 +15,8 @@ Click on the [CONTRIBUTING.md](https://github.com/amandamartin-dev/women-led-ope
 
 [bashbunni](https://github.com/bashbunni) - [Devrel @ Charm](https://github.com/charmbracelet) and other projects like [pjs](https://github.com/bashbunni/pjs)
 
+[Carly Gradeff](https://github.com/cgradeff) - [Emojisplosion Site](https://github.com/cgradeff/emojisplosion-site)
+
 [Cassidy Williams](https://github.com/cassidoo) - [todometer](https://github.com/cassidoo/todometer)
 
 [Emma Dawson](https://github.com/EmmaDawsonDev) - [Accessible For All](https://github.com/AccessibleForAll/AccessibleWebDev)
