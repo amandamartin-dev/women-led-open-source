@@ -80,6 +80,8 @@ Click on the [CONTRIBUTING.md](https://github.com/amandamartin-dev/women-led-ope
 
 [Awesome4girls](https://github.com/cristianoliveira/awesome4girls) - A curated list of inclusive events/projects/initiatives for women in the tech area. 
 
+[GSSoC](https://gssoc.girlscript.tech/) - GirlScript Summer of Code is a 3-month long Open Source program by GirlScript Foundation
+
 [Django Girls](https://github.com/DjangoGirls)- Django Girls is a non-profit organization that empowers and helps women to organize free, one-day programming workshops by providing tools, resources, and support. They have a number of open source projects on their GitHub page.
 
 [Open Austin](https://www.open-austin.org/) - Open Austin addresses local social and civic challenges through creative uses of technology. We foster relationships between government, non- and for-profit organizations, and resident activists. President [Liani Lye](https://github.com/lianilychee)
