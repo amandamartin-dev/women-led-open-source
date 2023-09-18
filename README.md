@@ -21,6 +21,8 @@ Click on the [CONTRIBUTING.md](https://github.com/amandamartin-dev/women-led-ope
 
 [Emma Dawson](https://github.com/EmmaDawsonDev) - [Accessible For All](https://github.com/AccessibleForAll/AccessibleWebDev)
 
+[Gender Kit](https://github.com/genderkit) - [Gender Kit](https://github.com/genderkit/genderkit)
+
 [Jaana Dogon](https://github.com/rakyll) - [Hey](https://github.com/rakyll/hey)
 
 [Jess Frazelle](https://github.com/jessfraz) - [Dockerfiles](https://github.com/jessfraz/dockerfiles)
@@ -42,6 +44,8 @@ Click on the [CONTRIBUTING.md](https://github.com/amandamartin-dev/women-led-ope
 [Njong Emy](https://github.com/Njong392) - [Abbreve](https://github.com/Njong392/Abbreve)
 
 [Red Hat Pride](https://github.com/RedHatPride) - [Open Source Transition Resources](https://github.com/RedHatPride/open-source-transition-resources)
+
+[Refuge Restrooms](https://github.com/RefugeRestrooms) - [Refuge Restrooms](https://github.com/RefugeRestrooms/refugerestrooms)
 
 [Rupali Codes](https://github.com/rupali-codes) - [LinksHub](https://github.com/rupali-codes/LinksHub#welcome-to-linkshub)
 
