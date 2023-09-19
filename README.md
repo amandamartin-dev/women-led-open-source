@@ -43,8 +43,7 @@ Click on the [CONTRIBUTING.md](https://github.com/amandamartin-dev/women-led-ope
 
 [Njong Emy](https://github.com/Njong392) - [Abbreve](https://github.com/Njong392/Abbreve)
 
-- [Red Hat Pride](https://github.com/RedHatPride) 
-[Open Source Transition Resources](https://github.com/RedHatPride/open-source-transition-resources)
+[Red Hat Pride](https://github.com/RedHatPride)- [Open Source Transition Resources](https://github.com/RedHatPride/open-source-transition-resources)
 
 [Refuge Restrooms](https://github.com/RefugeRestrooms) - [Refuge Restrooms](https://github.com/RefugeRestrooms/refugerestrooms)
 
