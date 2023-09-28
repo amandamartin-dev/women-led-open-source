@@ -100,6 +100,8 @@ Click on the [CONTRIBUTING.md](https://github.com/amandamartin-dev/women-led-ope
 
 [She Code Africa](https://github.com/she-code-africa) - She Code Africa is a non-profit organization focused on celebrating and empowering young girls and women in technology across Africa.
 
+[Virtual Coffee Community](https://github.com/Virtual-Coffee) - Virtual Coffee is a tech community where friendships are formed and support is given to people at all stages of their journey. Created and maintained by [BekahHW](https://github.com/BekahHW)
+
 [Women Who Code](https://github.com/WomenWhoCode)
 
 [Women in Technology](https://github.com/womenintechnology) - We bring together women whose goal is to support each other in developing professional competencies, preparing for leadership roles, building a network of contacts, and increasing visibility in IT. [Women in Technology website](https://www.womenintechnology.pl/)
