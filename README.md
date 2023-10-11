@@ -73,6 +73,8 @@ Click on the [CONTRIBUTING.md](https://github.com/amandamartin-dev/women-led-ope
 
 [Lea Verou](https://github.com/LeaVerou) - Elected @w3ctag member, CSS WG Invited Expert, HCI researcher at MIT CSAIL. Founder of many open source projects,including [PrismJS](https://github.com/PrismJS/prism).
 
+[Limor Fried](https://www.ladyada.net/) ([@ladyada](https://github.com/ladyada)) - Founder of [Adafruit Industries](https://www.adafruit.com/) and a leading light of the [open-source hardware](https://www.oshwa.org/) community. Adafruit is a 100% woman owned electronics manufacturing company in the heart of New York City.
+
 [Mitchell Baker](https://en.wikipedia.org/wiki/Mitchell_Baker) - CEO of Mozilla foundation
 
 [Sarah Novotony](https://twitter.com/sarahnovotny) - OSS leader, currently leading OSS strategy at Microsoft. 
