@@ -102,7 +102,9 @@ Click on the [CONTRIBUTING.md](https://github.com/amandamartin-dev/women-led-ope
 
 [Open Source Queens](https://app.daily.dev/squads/opensourcequeens/ay9Tv4cYCMwzSIGvILfxHhqIuetuDIeO1jJ9o80h6hg) -This is a space for women and non-binary individuals to share their experiences in the open source community. Whether you're a maintainer, founder, or contributor, we welcome you to join our community!
 
-[PyLadies](https://github.com/pyladies) - PyLadies is a global mentorship group focused on helping more marginalized genders become active participants & leads in the Python open-source community 
+[PyLadies](https://github.com/pyladies) - PyLadies is a global mentorship group focused on helping more marginalized genders become active participants & leads in the Python open-source community
+
+[rOpenSci](https://ropensci.org/) - We help develop R packages for the sciences via community driven learning, review and maintenance of contributed software in the R ecosystem. [Yanina Bellini Saibene](https://github.com/yabellini) - Community Manager
 
 [She Code Africa](https://github.com/she-code-africa) - She Code Africa is a non-profit organization focused on celebrating and empowering young girls and women in technology across Africa.
 
