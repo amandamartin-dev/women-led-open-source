@@ -25,6 +25,8 @@ Click on the [CONTRIBUTING.md](https://github.com/amandamartin-dev/women-led-ope
 
 [Gender Kit](https://github.com/genderkit) - [Gender Kit](https://github.com/genderkit/genderkit)
 
+[Ika](https://github.com/ikatyang) - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+
 [Jaana Dogon](https://github.com/rakyll) - [Hey](https://github.com/rakyll/hey)
 
 [Jess Frazelle](https://github.com/jessfraz) - [Dockerfiles](https://github.com/jessfraz/dockerfiles)
