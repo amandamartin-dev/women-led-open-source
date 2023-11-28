@@ -23,7 +23,7 @@ Click on the [CONTRIBUTING.md](https://github.com/amandamartin-dev/women-led-ope
 
 [Emma Dawson](https://github.com/EmmaDawsonDev) - [Accessible For All](https://github.com/AccessibleForAll/AccessibleWebDev)
 
-[Fempire Org](https://github.com/fempire)/[Tracy Lee](https://github.com/ladyleet) - [Women in Tech Speakers and Organizers](https://github.com/fempire/women-tech-speakers-organizers)
+[Fempire Org](https://github.com/fempire) / [Tracy Lee](https://github.com/ladyleet) - [Women in Tech Speakers and Organizers](https://github.com/fempire/women-tech-speakers-organizers)
 
 [Gender Kit](https://github.com/genderkit) - [Gender Kit](https://github.com/genderkit/genderkit)
 
