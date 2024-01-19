@@ -122,6 +122,8 @@ Click on the [CONTRIBUTING.md](https://github.com/amandamartin-dev/women-led-ope
 
 ## Content
 
+[Anita-ihuman Blog](https://movi.hashnode.dev/series/open-source) - Anita is a Developer advocate, Technical writer and Open Source evangelist specializing in cloud native and DevOps technologies. They also blog about topics including Open Source.
+
 [Open Source Stories](https://www.opensourcestories.org/) - Podcast by [Julia Ferraioli](https://github.com/juliaferraioli) & [Amanda Casari](https://github.com/amcasari) - The Open Source Stories project celebrates this expanded view on what is counted and who represents open source by collecting narratives from creators, contributors, and consumers alike.
 
 ## Support
