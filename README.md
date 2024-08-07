@@ -19,6 +19,8 @@ Click on the [CONTRIBUTING.md](https://github.com/amandamartin-dev/women-led-ope
 
 [Cassidy Williams](https://github.com/cassidoo) - [todometer](https://github.com/cassidoo/todometer)
 
+[Dakshi Goel](https://github.com/Dksie09) - [Retro UI](https://github.com/Dksie09/RetroUI)
+
 [Dunsin](https://github.com/Dun-sin) - [Whisper](https://github.com/Dun-sin/Whisper)
 
 [Emma Dawson](https://github.com/EmmaDawsonDev) - [Accessible For All](https://github.com/AccessibleForAll/AccessibleWebDev)
